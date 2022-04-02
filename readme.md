@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/coder_sir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder_sir" height="30" width="40" /></a>
+  <a href="https://app.daily.dev/pratikrai12"><img src="https://api.daily.dev/devcards/81b9fe575b8e466d813277da956b2780.png?r=r2p" width="400" alt="Pratik Rai's Dev Card"/></a>
 <a href="https://linkedin.com/in/pratik rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik rai" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/n0ty0u" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="n0ty0u" height="30" width="40" /></a>
 </p>
