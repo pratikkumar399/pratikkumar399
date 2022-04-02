@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Rai .</h1>
-<h3 align="center">Learning to Code .</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikkumar399&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkumar399" /> </p> -->
- <a href="https://app.daily.dev/pratikrai12"><img src="https://api.daily.dev/devcards/81b9fe575b8e466d813277da956b2780.png?r=r2p" width="400" alt="Pratik Rai's Dev Card"/></a>
+ 
 
 - 🌱 I’m currently learning **Python**
 
