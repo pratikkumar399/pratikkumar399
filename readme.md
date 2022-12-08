@@ -3,9 +3,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikkumar399&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkumar399" /> </p> -->
  
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 📝 I regularly write articles on [https://kontentkreator.tech/](https://kontentkreator.tech/)
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Python , JavaScript , C++**
 
