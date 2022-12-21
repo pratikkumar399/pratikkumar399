@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikkumar399&show_icons=true&locale=en" alt="pratikkumar399" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkumar399&" alt="pratikkumar399" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratikkumar399&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
