@@ -24,9 +24,6 @@
 <h3 align="left">Stats📈</h3>
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikkumar399&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="pratikkumar399" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratikkumar399&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="pratikkumar399" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkumar399&theme=highcontrast&hide_border=true" alt="pratikkumar399" /> </p>
 
-### :zap: Recent Activity
-<!-- START_SECTION:activity -->
-<!--END_SECTION:activity-->
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratikkumar399&theme=github-dark)](https://git.io/streak-stats) -->
