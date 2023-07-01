@@ -3,9 +3,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikkumar399&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkumar399" /> </p> -->
  
 
-- 🌱 I’m currently learning **React** ,**Flutter**, **DSA**
+- 🌱 I’m currently learning **NodeJs** ,**MongoDb**, **DSA**
 
-- 💬 Ask me about **Python , JavaScript , C++**
+- 💬 Ask me about **React , JavaScript , C++**
 
 - 📫 How to reach me **pratikkumar399@gmail.com**
 
